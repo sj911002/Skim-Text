@@ -11,3 +11,5 @@ Modelling experiments:
 4. Feature extraction with pre-trained token embeddings (Accuracy: 74.38%)
 5. Model with hybrid embedding layer (pre-trained token embeddings + character embeddings)  (Accuracy: 75.50%)
 6. Model with tribrid embedding layer (pre-trained token embeddings + character embeddings + positional embeddings) (Accuracy: 84.49%)
+
+(Pubmed_RCT.txt - unstructured abstract)
